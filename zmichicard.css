@@ -54,6 +54,8 @@ text-align: end;
     letter-spacing: 4px;
     border-radius: 5px;
     color: white;
+    cursor: pointer;
+    transition: background-color 0.3s;
 }
 .boton:hover{
     background-color: #0a702c;
